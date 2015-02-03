@@ -1,0 +1,15 @@
+.img-thumbnail {
+	max-width: 20%;
+}
+
+#remove1, #remove2, #remove3, #remove4, #remove5{
+	
+	color: #989191;
+	
+}
+
+#remove1:hover, #remove2:hover, #remove3:hover, #remove4:hover, #remove5:hover {
+	
+	color: #fff;
+}
+
