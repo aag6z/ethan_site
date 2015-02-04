@@ -41,7 +41,7 @@ $(document).ready(function(){
 	
 	$("#remove3").click(function() {
 		$("#gift3_blurb").hide(200, function(){
-			$("#secgiftcol").attr("class", "col-md-2");
+			$("#secgiftcol").attr("class", "col-md-3");
 			$("#thirgiftcol").attr("class", "col-md-3");
 			$("#gift3_btn").show("slow");	
 		});
